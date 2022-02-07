@@ -13,3 +13,24 @@
 ##### Reference
 
 1. https://daringfireball.net/projects/markdown/syntax
+
+
+##### Special Characters
+
+Markdown treats these characters as speical. To use them, put backslash\(\\\) before them:
+
+\\ backslash itself.
+
+\` backtick.
+
+\* asterisk.
+
+\_ underscore.
+
+\{ \} curly braces.
+
+\[ \] square brackets.
+
+\( \) parentheses.
+
+\# hash mark.
